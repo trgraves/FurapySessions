@@ -1,0 +1,180 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 29, 2018, 3:29:37 PM
+    Author     : Ryan
+*/
+@import url('https://fonts.googleapis.com/css?family=Spicy+Rice');
+
+body {
+    background-color: #78b0a7;
+}
+
+h2, h3, h4 {
+    font-family: 'Spicy Rice', cursive;
+    color: 	#63535b;
+}
+
+a {
+    color: #63535b;
+}
+
+p {
+    color: #5a5255;
+    font-size: 18px;
+}
+
+#doggoDiv {
+    margin-top: 10px;
+    background-color: #efe1dc;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+#doggoDiv p {
+    color: #381134;
+    padding-left: 20px;
+}
+
+#dnaResults {
+    font-size: 24px;
+    
+}
+
+.doggoResults {
+    font-size: 18px !important;
+}
+
+hr {
+    border-color: #5a5255;
+}
+
+ul {
+    background-color: 	#53917e;
+}
+
+.navbar {
+    color: #c3cb71;
+}
+
+.nav-tabs a {
+    color: white !important;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+li:active {
+    background-color: #ae5a41 !important;
+}
+
+.nav-tabs a:active {
+    background-color: #ae5a41 !important;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover {
+    background-color: #ae5a41;
+}
+
+.nav-tabs a:hover {
+    color: #5a5255 !important;
+    background-color: #ae5a41 !important;
+}
+
+table.two {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: #93bfb8;
+    color: #5A5255;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+table.two td, table.two th {
+    padding: 3px 2px;
+}
+table.two tbody td {
+    font-size: 13px;
+}
+
+table.two td a {
+    text-decoration: underline;
+}
+table.two tr:nth-child(even) {
+    color: #5A5255;
+    background: #C6F2CC;
+}
+table.two tr:hover {
+    background: #B7FFE8;
+}
+table.two thead {
+    background: #559E83;
+    background: -moz-linear-gradient(top, #7fb6a2 0%, #66a78f 66%, #559E83 100%);
+    background: -webkit-linear-gradient(top, #7fb6a2 0%, #66a78f 66%, #559E83 100%);
+    background: linear-gradient(to bottom, #7fb6a2 0%, #66a78f 66%, #559E83 100%);
+    border-bottom: 2px solid #559E83;
+}
+table.two thead th {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    border-left: 2px solid #559E83;
+}
+table.two thead th:first-child {
+    border-left: none;
+}
+
+#calendar th {
+    border-color: black;
+}
+
+#calendar td {
+    border-color: black;
+}
+
+
+.form-control {
+    background-color: #C6F2CC;
+}
+
+#myScrollSpy {
+    position: fixed;
+    width: 20%;
+}
+
+img {
+    height: 150px;
+}
+
+#section2{
+    margin-bottom: 200px;
+}
+
+.btn {
+    background-color: #ae5a41;
+    border-color: #ae5a41;
+    color: white;
+}
+
+#eotwHead {
+    font-size: 25px;
+    color: white;
+}
+
+#eotwBody {
+    font-size: 18px;
+    color: white;
+}
+
+#modalContent {
+    background-color: #78b0a7;
+}
+
+option {
+    background-color: #C6F2CC;
+}
+
+#errorDog {
+    height: 500px;
+}
